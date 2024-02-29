@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CodeWithCheng
-- 👀 I’m interested in ...
+- 👀 I’m interested in further improving my skills in web development, and interested to try out mobile development also
 - 🌱 I’m currently learning Javascript and how to work around GitHub
 - 💞️ I’m looking to collaborate on possible single page web projects
 - 📫 You may contact me through my email: astianseah@gmail.com
